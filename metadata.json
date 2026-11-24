@@ -1,0 +1,6 @@
+{
+  "name": "The Star Warden — Boss Arena",
+  "description": "Top-down 2D Archero-style boss arena shooter against The Star Warden on HTML5 Canvas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
